@@ -9,12 +9,12 @@ app.css is built on a [BEM](http://bem.info/)-style naming convention and
 honed based on [work done by Nicolas Gallagher](https://gist.github.com/1309546).
 
 app.css use only little parts of [inuit.css](https://www.github.com/csswizardry/inuit.css)
-such as mixins, helpers, headings and smallprint.
+such as mixins, helpers, headings and smallprint.  Thanks to Harry Roberts for his nice work!
 
-## requires
+## Requires
 - ruby and [Compass](http://www.compass-style.org) see install page
 
-## install
+## Install
 The command line install of app.css is _incredibly_ simple:
 
     $ git clone --recursive git@github.com:awallef/app.css.git your-project-folder/your-css-folder/app.css
@@ -121,5 +121,13 @@ more ( or less :) docs here: [inuit.css](https://www.github.com/csswizardry/inui
     
     ...
     
-    
+## License
+
+Copyright 2013 Wallef Antoine
+
+Licensed under the Apache License, Version 2.0.
+
+---
+
+** Hura **   
     
