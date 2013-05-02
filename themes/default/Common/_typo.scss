@@ -1,0 +1,51 @@
+/***
+ *      ________                     .__          
+ *     /  _____/  ____   ____   ____ |  |   ____  
+ *    /   \  ___ /  _ \ /  _ \ / ___\|  | _/ __ \ 
+ *    \    \_\  (  <_> |  <_> ) /_/  >  |_\  ___/ 
+ *     \______  /\____/ \____/\___  /|____/\___  >
+ *            \/             /_____/           \/ 
+ */
+
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,200italic,400italic);
+
+/***
+ *      _________.__                      
+ *     /   _____/|__|_______ ____   ______
+ *     \_____  \ |  \___   // __ \ /  ___/
+ *     /        \|  |/    /\  ___/ \___ \ 
+ *    /_______  /|__/_____ \\___  >____  >
+ *            \/          \/    \/     \/ 
+ */
+
+//Base stuff
+$base-font-size:    16px!default;
+$base-line-height:  24px!default;
+
+//Font-sizes (in pixels). Refer to relevant sections for their implementations.
+$giga-size:         96px!default; // .giga
+$mega-size:         72px!default; // .mega
+$kilo-size:         48px!default; // .kilo
+
+$h1-size:           36px!default; // .alpha
+$h2-size:           30px!default; // .beta
+$h3-size:           24px!default; // .gamma
+$h4-size:           20px!default; // .delta
+$h5-size:           16px!default; // .epsilon
+$h6-size:           14px!default; // .zeta
+
+$milli-size:        12px!default; // .milli
+$micro-size:        10px!default; // .micro
+
+/***
+ *    ___________                    
+ *    \_   _____/____    ____  ____  
+ *     |    __) \__  \ _/ ___\/ __ \ 
+ *     |     \   / __ \\  \__\  ___/ 
+ *     \___  /  (____  /\___  >___  >
+ *         \/        \/     \/    \/ 
+ */
+
+body {
+    font-family:  'Source Sans Pro', sans-serif;
+}

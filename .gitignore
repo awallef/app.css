@@ -1,6 +1,9 @@
 # User specific & automatically generated files #
 #################################################
 .sass-cache/**
+.sass-cache/*
+core/build/.sass-cache/**
+/core/build/.sass-cache/*
 
 # OS generated files #
 ######################

@@ -1,0 +1,31 @@
+/**
+ *	for the syntax look at:
+ *	http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/
+ *	
+ *	BEM syntax:
+ *	
+ *	.block{}
+ *	.block__element{}
+ * 	.block--modifier{}
+ *
+ *	.person{}
+ *	.person__hand{}
+ *	.person--female{}
+ *	.person--female__hand{}
+ *	.person__hand--left{}
+ *
+ *	to see what is BEM ( Blocks, Elements, Modifiers ) check:
+ *	http://bem.info/method/definitions/
+ */
+
+@charset "UTF-8";
+
+/**
+ * include core ..
+ */
+@import "core/core";
+
+/**
+ * include your theme scss loader here
+ */
+@import "themes/default/inc";

@@ -1,0 +1,5 @@
+#!/bin/sh
+
+cd core/build && compass watch
+
+exit 0
