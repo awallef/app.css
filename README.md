@@ -25,7 +25,7 @@ when you need you are happy with your css then run:
   
     $ ./minimify
 
-## folder structure
+## Folder structure
 
     your-project-folder/
         your-css-folder/
@@ -39,7 +39,7 @@ when you need you are happy with your css then run:
             default.css
     index.html
 
-## usage
+## Usage
 The main concept is to design as many theme you need.
 Whene you create a theme.scss file inside app.css folder, then create a new folder
 inside themes with the same name as your new theme. Compass will generate a new css
