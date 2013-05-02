@@ -5,16 +5,16 @@
 
 # Set this to the root of your project when deployed:
 http_path = "/"
-sass_dir = '../..'
-css_dir = '../../..'
-images_dir = '../../../../img'
-javascripts_dir = '../../../../js'
+sass_dir = '../../..'
+css_dir = '../../../..'
+images_dir = '../../../../../img'
+javascripts_dir = '../../../../../js'
 http_stylesheets_path = 'css'
 http_javascripts_path = 'js'
 http_images_path = 'img'
 
-environment = :development #:production
-output_style = :expanded #:compressed
+environment = :production
+output_style = :compressed
 
 # To enable relative paths to assets via compass helper functions. Uncomment:
 relative_assets = true

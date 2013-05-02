@@ -1,0 +1,5 @@
+#!/bin/sh
+
+cd core/build/minimify && compass compile
+
+exit 0

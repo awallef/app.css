@@ -1,9 +1,7 @@
 # User specific & automatically generated files #
 #################################################
-.sass-cache/**
-.sass-cache/*
-core/build/.sass-cache/**
-/core/build/.sass-cache/*
+/core/build/watch/.sass-cache
+/core/build/minimify/.sass-cache
 
 # OS generated files #
 ######################
